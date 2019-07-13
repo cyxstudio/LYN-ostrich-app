@@ -17,9 +17,17 @@ We want to enjoy a nice discussion when we go on the internet and we do not need
 
 <br>
 
-So what we gonna do is we gonna put his user name in an array called blockedlist.
+So what we gonna do is we gonna is 
 
-<img src = "bacometer4.png>
+1) Install tampermonkey on your chrome browser.
+2) Copy the code in index.js.
+3) Create a new script in tampermonkey and paste the exact code in it.
+4) Put his user name in an array called blockedlist.
+5) Save.
+
+<br>
+
+<img src = "bacometer4.png">
             
             <br>
             
@@ -29,6 +37,6 @@ Make sure the tampermonkey is enabled
             
             <br>
             
-  and Taaadaa...... his post will never be seen again , and post quoting his post will also be missing
+  and Taaadaa...... his post will never be seen again , and post quoting his post will also be missing. The only time it wont work is if he is the thread starter. In which case i did not make the script censor the post because it would look weird for a thread to being out of nowhere. 
   
   <img src = "bacometer6.png">
