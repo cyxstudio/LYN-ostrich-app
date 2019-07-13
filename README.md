@@ -14,3 +14,21 @@ We want to enjoy a nice discussion when we go on the internet and we do not need
 <img src = "bacometer.png"></br>
 <img src = "bacometer2.png"></br>
 <img src = "bacometer3.png"></br>
+
+<br>
+
+So what we gonna do is we gonna put his user name in an array called blockedlist.
+
+<img src = "bacometer4.png>
+            
+            <br>
+            
+Make sure the tampermonkey is enabled
+
+<img src = "bacometer5.png>
+            
+            <br>
+            
+  and Taaadaa...... his post will never be seen again , and post quoting his post will also be missing
+  
+  <img src = "bacometer6.png">
