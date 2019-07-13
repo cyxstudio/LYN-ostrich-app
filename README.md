@@ -29,14 +29,14 @@ So what we gonna do is we gonna is
 
 <img src = "bacometer4.png">
             
-            <br>
+
             
 Make sure the tampermonkey is enabled
 
-<img src = "bacometer5.png>
+<img src = "bacometer6.png>
             
-            <br>
+
             
   and Taaadaa...... his post will never be seen again , and post quoting his post will also be missing. The only time it wont work is if he is the thread starter. In which case i did not make the script censor the post because it would look weird for a thread to being out of nowhere. 
   
-  <img src = "bacometer6.png">
+  <img src = "bacometer5.png">
