@@ -25,6 +25,7 @@ So what we gonna do is we gonna is
 4) Put his user name in an array called blockedlist.
 5) Save.
 
+  <img src = "bacometer5.png">
 <br>
 
 <img src = "bacometer4.png">
@@ -35,8 +36,8 @@ Make sure the tampermonkey is enabled
 
 <img src = "bacometer6.png">
             
-
+  <img src = "bacometer7.png">
             
   and Taaadaa...... his post will never be seen again , and post quoting his post will also be missing. The only time it wont work is if he is the thread starter. In which case i did not make the script censor the post because it would look weird for a thread to being out of nowhere. 
   
-  <img src = "bacometer5.png">
+
