@@ -11,6 +11,6 @@ We want to enjoy a nice discussion when we go on the internet and we do not need
 
 <br><br>
 
-<img src = "bacometer.jpg"></br>
-<img src = "bacometer2.jpg"></br>
-<img src = "bacometer3.jpg"></br>
+<img src = "bacometer.png"></br>
+<img src = "bacometer2.png"></br>
+<img src = "bacometer3.png"></br>
