@@ -36,7 +36,7 @@ So what we gonna do is we gonna is
 Make sure the tampermonkey is enabled
 
             
-  and Taaadaa...... his post will never be seen again , and post quoting his post will also be missing. The only time it wont work is if he is the thread starter. In which case i did not make the script censor the post because it would look weird for a thread to being out of nowhere. 
+  and Taaadaa...... his post will never be seen again , and post quoting his post will also be missing. The only time it wont work is if he is the thread starter. In which case i did not make the script censor the post because it would look weird for a thread to begin out of nowhere. 
   
 Original view <br>
 <img src = "bacometer4.png">
