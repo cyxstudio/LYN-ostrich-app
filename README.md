@@ -33,7 +33,7 @@ So what we gonna do is we gonna is
             
 Make sure the tampermonkey is enabled
 
-<img src = "bacometer6.png>
+<img src = "bacometer6.png">
             
 
             
