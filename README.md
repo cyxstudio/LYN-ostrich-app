@@ -44,3 +44,5 @@ Original view <br>
 <br>
 After blocked <br>
   <img src = "bacometer7.png">
+  
+  Please report any bug if you find any and enjoy foruming. :)
